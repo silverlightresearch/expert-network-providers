@@ -1,2 +1,3 @@
 # expert-network-providers
-Non-evaluative dataset listing common expert network providers used in institutional primary research.
+This repository contains a simple, non-evaluative dataset of expert network providers commonly referenced in institutional primary research.
+The dataset does not rank, recommend, or assess providers.
